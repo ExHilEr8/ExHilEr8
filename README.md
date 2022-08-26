@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ExHilEr8
-- 👀 I’m interested in Data Structures and Computer Science
-- 🌱 I’m currently learning GitHub :)
 - 📫 How to reach me: justinkwietniowski@gmail.com
 
 <!---
